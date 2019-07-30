@@ -5,7 +5,7 @@ Points: 150
 General Skills
 
 ## Question
->It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with "nc 2018shell1.picoctf.com 33158".
+>It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with `nc 2018shell1.picoctf.com 33158`.
 
 ### Hint
 >Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
