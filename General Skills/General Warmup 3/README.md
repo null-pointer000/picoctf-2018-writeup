@@ -13,7 +13,7 @@ General Skills
 ## Solution
 We can use Python to convert hexadecimal to decimal numbers.
 
-```python
+```
 >>> 0x3d
 61
 ```
